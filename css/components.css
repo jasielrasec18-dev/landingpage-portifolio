@@ -1,0 +1,22 @@
+.btn{
+padding:12px 22px;
+border-radius:var(--radius);
+display:inline-block;
+font-weight:600;
+}
+
+.btn-primary{
+background:var(--color-primary);
+color:white;
+}
+
+.btn-secondary{
+background:var(--color-secondary);
+}
+
+.badge{
+background:rgba(59,130,246,0.2);
+padding:6px 10px;
+border-radius:20px;
+font-size:12px;
+}
