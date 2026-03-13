@@ -33,6 +33,17 @@ background:var(--color-card);
 padding:20px;
 border-radius:var(--radius);
 text-align:center;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+}
+
+.tech-icon {
+	display: flex;
+	margin-bottom: 0.5rem;
+	width: 2.5rem;
+	height: 2.5rem;
 }
 
 .tech{
